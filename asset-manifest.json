@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/image-recognition-react-app/static/css/main.8a53d61d.chunk.css",
-    "main.js": "/image-recognition-react-app/static/js/main.83d6b133.chunk.js",
-    "main.js.map": "/image-recognition-react-app/static/js/main.83d6b133.chunk.js.map",
+    "main.css": "/image-recognition-react-app/static/css/main.1aa378c4.chunk.css",
+    "main.js": "/image-recognition-react-app/static/js/main.59470476.chunk.js",
+    "main.js.map": "/image-recognition-react-app/static/js/main.59470476.chunk.js.map",
     "runtime-main.js": "/image-recognition-react-app/static/js/runtime-main.75960318.js",
     "runtime-main.js.map": "/image-recognition-react-app/static/js/runtime-main.75960318.js.map",
     "static/js/2.1393ea30.chunk.js": "/image-recognition-react-app/static/js/2.1393ea30.chunk.js",
     "static/js/2.1393ea30.chunk.js.map": "/image-recognition-react-app/static/js/2.1393ea30.chunk.js.map",
     "index.html": "/image-recognition-react-app/index.html",
-    "static/css/main.8a53d61d.chunk.css.map": "/image-recognition-react-app/static/css/main.8a53d61d.chunk.css.map",
+    "static/css/main.1aa378c4.chunk.css.map": "/image-recognition-react-app/static/css/main.1aa378c4.chunk.css.map",
     "static/js/2.1393ea30.chunk.js.LICENSE.txt": "/image-recognition-react-app/static/js/2.1393ea30.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.75960318.js",
     "static/js/2.1393ea30.chunk.js",
-    "static/css/main.8a53d61d.chunk.css",
-    "static/js/main.83d6b133.chunk.js"
+    "static/css/main.1aa378c4.chunk.css",
+    "static/js/main.59470476.chunk.js"
   ]
 }
