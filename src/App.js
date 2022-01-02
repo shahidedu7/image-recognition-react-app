@@ -2,6 +2,7 @@
 import { useState, useEffect, useRef } from 'react';
 import * as mobilenet from "@tensorflow-models/mobilenet";
 
+
 function App() {
     const [isModelLoading, setIsModelLoading] = useState(false)
     const [model, setModel] = useState(null)
@@ -67,6 +68,9 @@ function App() {
     return (
         <div className="App">
             <h1 className='header'>Image Recognition React App</h1>
+            <div>
+                <h3> Supports Image classes <a href="https://deeplearning.cms.waikato.ac.nz/user-guide/class-maps/IMAGENET/" target="_blank">ImageNet</a></h3>
+            </div>
             <div className='inputHolder'>
                 <input type='file' accept='image/*' capture='camera' className='uploadInput' onChange={uploadImage} ref={fileInputRef} />
                 <button className='uploadImage' onClick={triggerUpload}>Upload Image</button>
@@ -103,6 +107,7 @@ function App() {
                     })}
                 </div>
             </div>}
+            
         </div>
     );
 }
